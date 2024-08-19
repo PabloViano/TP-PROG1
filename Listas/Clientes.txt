@@ -1,0 +1,1 @@
+[{"TipoDocumento":3,"NumeroDocumento":43494506,"NombreApellido":"Pablo Viano","Email":"pabloviano13@gmail.com","Celular":15658784,"FechaNac":"2001-12-11T00:00:00","Sexo":"MASCULINO","Domicilio":"Dante Alighieri 133","CP":2300,"Localidad":"Rafaela","TipoCliente":1,"MontoMaximo":30000.0}]
